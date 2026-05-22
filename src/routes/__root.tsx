@@ -77,11 +77,15 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { title: "FinSense AI — Intelligent Financial Planning" },
       { name: "description", content: "AI-powered financial planning, budgeting, savings goals and spending intelligence in South African Rand." },
       { name: "author", content: "FinSense AI" },
-      { property: "og:title", content: "FinSense AI" },
-      { property: "og:description", content: "Your AI financial wellness assistant." },
+      { property: "og:title", content: "FinSense AI — Intelligent Financial Planning" },
+      { property: "og:description", content: "AI-powered financial planning, budgeting, savings goals and spending intelligence in South African Rand." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "FinSense AI — Intelligent Financial Planning" },
+      { name: "twitter:description", content: "AI-powered financial planning, budgeting, savings goals and spending intelligence in South African Rand." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/10ad8cec-294a-4a9f-8674-374da0e4e2d9/id-preview-073ce2c5--ded38ef0-6687-4c27-9128-f0f7091c07fe.lovable.app-1779438356469.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/10ad8cec-294a-4a9f-8674-374da0e4e2d9/id-preview-073ce2c5--ded38ef0-6687-4c27-9128-f0f7091c07fe.lovable.app-1779438356469.png" },
     ],
     links: [
       {
