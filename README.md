@@ -1,5 +1,5 @@
 # FinSense AI
-
+link: https://finsense-ai-companion-48.lovable.app
 > An intelligent financial planning and smart money assistant powered by AI.
 
 ![FinSense AI](https://img.shields.io/badge/FinSense-AI-blueviolet?style=flat&logo=sparkline)
